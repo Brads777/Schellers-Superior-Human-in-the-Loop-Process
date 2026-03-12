@@ -8,7 +8,7 @@
 
 The following are trademarks of ToolsIQ LLC:
 
-- **SHIT Loop™** — Sheller's Superior Human In The Loop Process
+- **SHIT Loop™** — Scheller's Superior Human In The Loop Process
 - **ToolsIQ™**
 - **DemoIQ™**
 

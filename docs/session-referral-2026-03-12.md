@@ -5,7 +5,7 @@
 
 ## What This Is
 
-**SHIT Loop** (Sheller's Superior Human In The Loop Process) is a research-backed, rubric-based quality assurance engine. It creates bespoke evaluation rubrics for any output type and loops until 96%+ quality is achieved.
+**SHIT Loop** (Scheller's Superior Human In The Loop Process) is a research-backed, rubric-based quality assurance engine. It creates bespoke evaluation rubrics for any output type and loops until 96%+ quality is achieved.
 
 ## Where We Left Off
 

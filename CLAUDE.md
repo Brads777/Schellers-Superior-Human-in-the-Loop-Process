@@ -1,6 +1,10 @@
 # SHIT Loop — Sheller's Superior Human In The Loop Process
 
-©2026 Brad Scheller / ToolsIQ LLC
+**©2026 G. Bradley Scheller / ToolsIQ LLC. All rights reserved.**
+**SHIT Loop™ and Sheller's Superior Human In The Loop Process™ are trademarks of ToolsIQ LLC.**
+**Patent Pending — U.S. Provisional Patent Application**
+
+---
 
 ## Project Overview
 

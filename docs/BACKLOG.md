@@ -25,6 +25,8 @@
 - [ ] Analytics dashboard — track quality improvement over iterations
 
 ## Completed (Recent)
+- [x] `shit-inteliq-triage` rubric skill — 7 criteria, triage thresholds, examples, pipeline integration (2026-03-15)
+- [x] Rubric YAML schema defined by example — `skills/shit-inteliq-triage.md` serves as format reference (2026-03-15)
 - [x] Concept defined in DemoIQ brainstorming session (March 12, 2026)
 - [x] Architecture outlined: agent + rubric skills + research pipeline
 - [x] Research pipeline refined: Gemini Deep Research + Perplexity → NotebookLM → Opus synthesis
